@@ -1,0 +1,1 @@
+int Train(float **Vectors, char *SpeakerID, int SpkFrmNm);

@@ -1,0 +1,1 @@
+void UBMGaussLogScore(float **Vectors, float *UBMWeights, float **UBMMeans, float **UBMDevs, float *UBMDen, int SpkFrmNm, float**TempUBMGauRat_Temp2D);
